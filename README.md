@@ -34,3 +34,14 @@ This project is a Spring Boot application that provides real-time or near real-t
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/your-repo-name.git
+
+   
+### **Instructions for Use**
+
+1. **Replace Placeholder Text:** Make sure to replace `yourusername` and `your-repo-name` with your actual GitHub username and repository name.
+2. **Add API Details:** Provide details about the external stock market data source and any specific setup instructions.
+3. **Security Configurations:** If you have specific security configurations or customizations, detail them in the `SecurityConfig.java` section.
+4. **License File:** If your project includes a license, ensure you include a link or reference to the `LICENSE` file.
+
+This `README.md` file should give potential users and contributors a clear understanding of your project, its features, and how to get started.
+
